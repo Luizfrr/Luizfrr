@@ -1,7 +1,7 @@
 ### Olá!Eu sou Luiz Guilherme👋
 
 - 🔭 Estudante de programação
-- 🌱 Estudando atualmente Python
+- 🌱 Estudando atualmente Java
 - 📫 Contate-me no email luizgffo@gmail.com
 
 <div>
