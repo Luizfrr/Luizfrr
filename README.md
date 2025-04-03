@@ -24,3 +24,9 @@ Bem-vindo ao meu perfil! Sou um estudante de **Análise e Desenvolvimento de Sis
 ---
 
 Se você gostou do que estou fazendo, fique à vontade para me seguir ou entrar em contato!
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luizfrr/Luizfrr/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luizfrr/Luizfrr/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Luizfrr/Luizfrr/output/github-contribution-grid-snake.svg">
+</picture>
