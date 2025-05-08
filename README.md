@@ -1,14 +1,14 @@
 # Olá, meu nome é Luiz Guilherme 👋
 
-Bem-vindo ao meu perfil! Sou um estudante de **Análise e Desenvolvimento de Sistemas** e estou atualmente estou aprendendo sobre **programação** e **cybersegurança** . 
+Bem-vindo ao meu perfil! Sou um estudante de **Análise e Desenvolvimento de Sistemas**. 
 
 ## 🧑‍💻 Sobre Mim
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**.
 - 👨‍💻 Estudando:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - 💬 Adoro aprender e compartilhar conhecimento sobre **tecnologia** e **programação**.
-- 🌱 Sempre em busca de melhorar minhas habilidades de **programação** e expandir meus conhecimentos sobre **segurança digital**.
+- 🌱 Sempre em busca de melhorar minhas habilidades de **programação**.
 
 ## 📊 Minhas Estatísticas do GitHub
 
