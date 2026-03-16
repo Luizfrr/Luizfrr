@@ -35,21 +35,6 @@ Atualmente estudo e desenvolvo projetos utilizando tecnologias comuns no desenvo
 
 ---
 
-## Projetos
-
-### Sistema de Agendamento - em andamento
-
-Sistema de gestão de serviços com controle de clientes, funcionários e agendamentos.
-
-Principais conceitos utilizados:
-
-* Modelagem de banco de dados
-* CRUD completo
-* Relacionamentos entre entidades
-* Organização de dados para sistemas de gestão
-
----
-
 ## Atualmente estudando
 
 * Desenvolvimento back-end com **Java**
