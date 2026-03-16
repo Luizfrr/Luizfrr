@@ -37,7 +37,7 @@ Atualmente estudo e desenvolvo projetos utilizando tecnologias comuns no desenvo
 
 ## Projetos
 
-### Sistema de Agendamento
+### Sistema de Agendamento - em andamento
 
 Sistema de gestão de serviços com controle de clientes, funcionários e agendamentos.
 
@@ -47,18 +47,6 @@ Principais conceitos utilizados:
 * CRUD completo
 * Relacionamentos entre entidades
 * Organização de dados para sistemas de gestão
-
----
-
-### Sistema de Gestão Olímpica
-
-Aplicação desenvolvida utilizando **Oracle APEX** para gerenciamento de repasses financeiros para atletas.
-
-Principais conceitos:
-
-* SQL
-* Modelagem de dados
-* Desenvolvimento de aplicações no Oracle APEX
 
 ---
 
