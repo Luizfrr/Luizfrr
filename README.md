@@ -1,32 +1,46 @@
-# Olá, meu nome é Luiz Guilherme 👋
+# Luiz Guilherme
 
-Bem-vindo ao meu perfil! Sou um estudante de **Análise e Desenvolvimento de Sistemas**. 
+Estudante de **Análise e Desenvolvimento de Sistemas**, interessado em **desenvolvimento back-end, banco de dados e construção de sistemas**.
 
-## 🧑‍💻 Sobre Mim
-
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**.
-- 👨‍💻 Estudando:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-- 💬 Adoro aprender e compartilhar conhecimento sobre **tecnologia** e **programação**.
-- 🌱 Sempre em busca de melhorar minhas habilidades de **programação**.
-
-## 📊 Minhas Estatísticas do GitHub
-
-### Línguas mais usadas
-
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Luizfrr&layout=compact&langs_count=6&theme=radical)
-
-## 📫 Como me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizfrr/)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:luizggfo@gmail.com)
+Atualmente estudo e trabalho com tecnologias utilizadas no desenvolvimento de aplicações e sistemas de gestão.
 
 ---
 
-Se você gostou do que estou fazendo, fique à vontade para me seguir ou entrar em contato!
+## Sobre
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luizfrr/Luizfrr/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luizfrr/Luizfrr/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Luizfrr/Luizfrr/output/github-contribution-grid-snake.svg">
-</picture>
+Sou estudante de tecnologia com foco em desenvolvimento de software. Tenho interesse principalmente em **back-end, arquitetura de sistemas e banco de dados**.
+
+Tenho experiência prática com:
+
+- JavaScript  
+- Java  
+- SQL  
+- Oracle APEX  
+
+Também desenvolvo **projetos próprios**, voltados para sistemas de gestão e automação de processos.
+
+---
+
+## Tecnologias
+
+- JavaScript  
+- Java  
+- Python  
+- SQL  
+- Oracle  
+
+---
+
+## Estatísticas do GitHub
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Luizfrr&layout=compact)
+
+---
+
+## Contato
+
+**LinkedIn**  
+https://www.linkedin.com/in/luizfrr/
+
+**Email**  
+luizggfo@gmail.com
